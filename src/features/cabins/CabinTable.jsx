@@ -1,4 +1,4 @@
-import Spinner from "../../UI/Spinner.jsx";
+import Spinner from "../../ui/Spinner.jsx";
 import CabinRow from "./CabinRow.jsx";
 import { useCabins } from "./useCabins.js";
 import Table from "../../ui/Table.jsx";
