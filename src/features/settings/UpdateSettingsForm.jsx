@@ -3,7 +3,7 @@ import Form from "../../ui/Form";
 import FormRow from "../../ui/FormRow";
 import Input from "../../ui/Input";
 import Button from "../../ui/Button";
-import Spinner from "../../UI/Spinner";
+import Spinner from "../../ui/Spinner";
 
 import { useSettings } from "./useSettings";
 
